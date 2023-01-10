@@ -7,6 +7,12 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/adel-ezz-838523b0/
 - ⚡ Fun fact I have a joke on programming but it only works on my computer
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)]
+
+(https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **adel-ezz/adel-ezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,7 +9,7 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/adel-ezz-838523b0/
 - ⚡ Fun fact I have a joke on programming but it only works on my computer
 - 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+
 
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=adel-ezz)
 -->

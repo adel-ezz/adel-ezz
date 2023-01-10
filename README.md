@@ -8,9 +8,8 @@
 - ⚡ Fun fact I have a joke on programming but it only works on my computer
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![trophy](https://github-profile-trophy.vercel.app/?username=adel-ezz)
 
-https://github.com/ryo-ma/github-profile-trophy
 
 
 <!--

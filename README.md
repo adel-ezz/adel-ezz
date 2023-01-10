@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=adel-ezz)
+
 - 🔭 I’m currently working on RamaGroup on Saudi
 - 🌱 I’m currently learning Design patterns, Cloud, DevOps
 - 💬 Ask me about Laravel, Vue, MySql, PHP, JS , Mysql,agile_methodology, microservices 

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on RamaGroup on Saudi
 - 🌱 I’m currently learning Design patterns, Cloud, DevOps
-- 💬 Ask me about Laravel, Vue, MySql, PHP, JS , Mysql,agile_methodology, microservices 
+- 💬 Ask me about Laravel,livewire, Vue, MySql, PHP, JS , Mysql,agile_methodology, microservices 
 - 📫 How to reach me dola.ezz1@gmail.com
 - 📄 Know about my experiences https://www.linkedin.com/in/adel-ezz-838523b0/
 - ⚡ Fun fact I have a joke on programming but it only works on my computer

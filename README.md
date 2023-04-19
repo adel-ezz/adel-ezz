@@ -10,11 +10,6 @@
 - ⚡ Fun fact I have a joke on programming but it only works on my computer
 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adel-ezz&theme=tokyonight" alt="adel-ezz" /></p>
-
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adel-ezz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adel-ezz" /></p>
-   
-
 
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=adel-ezz)
 -->

@@ -6,6 +6,7 @@
 - 💬 Ask me about Laravel,livewire, Vue, MySql, PHP, JS , Mysql,agile_methodology, microservices 
 - 📫 How to reach me dola.ezz1@gmail.com
 - 📄 Know about my experiences https://www.linkedin.com/in/adel-ezz-838523b0/
+
 - ⚡ Fun fact I have a joke on programming but it only works on my computer
 
 
@@ -29,7 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   
 
 
-  
+#### Statistics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adel-ezz&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adel-ezz&theme=default)

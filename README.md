@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adel-ezz&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adel-ezz&theme=default)
+[//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adel-ezz&theme=default&#41;)
